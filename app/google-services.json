@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530778029218",
+    "project_id": "efood-ccb83",
+    "storage_bucket": "efood-ccb83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530778029218:android:89a5ed842e40ecd6baabfb",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530778029218-e4hh8k83hf153bvm87ucl2pcrciermmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1bO_a21RT2SIee7cWsIrXLdlPFfvH6M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530778029218-e4hh8k83hf153bvm87ucl2pcrciermmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
